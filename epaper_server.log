@@ -1,9 +1,0 @@
-2024-10-31 21:40:38,189 - INFO - Server start...
-2024-10-31 21:40:38,189 - INFO - Server läuft und wartet auf Verbindungen auf 0.0.0.0:8080...
-2024-10-31 21:40:44,798 - INFO - Verbindung von ('127.0.0.1', 64510) akzeptiert
-2024-10-31 21:40:44,798 - INFO - Eingehende Daten von Display: Erwartete Länge des Strings: 77 Bytes
-2024-10-31 21:40:44,799 - INFO - Empfangene Daten: Client IP: 127.0.0.1 Client MAC: AA:BB:CC:DD:EE:FF Client Secret: Kaesekuchen
-2024-10-31 21:40:44,799 - INFO - Ermittelte DeepSleep Zeit für Display XYZ 42
-2024-10-31 21:40:44,799 - INFO - DeepSleep Zeit für Display XYZ gesendet
-2024-10-31 21:40:44,799 - INFO - Bildaten graustufenbild_demo.png an Display XYZ senden
-2024-10-31 21:40:46,677 - INFO - 276480 Bytes an ('127.0.0.1', 64510) gesendet
